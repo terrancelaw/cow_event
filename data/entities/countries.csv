@@ -1,0 +1,222 @@
+ID,name,displayName,latitude,longitude,region,subregion
+0,Afghanistan,Afghanistan,33,65,ASIA,
+1,Albania,Albania,41,20,EUROPE,
+2,Algeria,Algeria,28,3,AFRICA,NORTHERN AFRICA
+3,Andorra,Andorra,42.5,1.5,EUROPE,
+4,Angola,Angola,-12.5,18.5,AFRICA,
+5,Antigua & Barbuda,Antigua & Barbuda,17.05,-61.8,AMERICAS,
+6,Argentina,Argentina,-34,-64,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+7,Armenia,Armenia,40,45,ASIA,WESTERN ASIA
+8,Australia,Australia,-27,133,OCEANIA,AUSTRALIA AND NEW ZEALAND
+9,Austria,Austria,47.33,13.33,EUROPE,WESTERN EUROPE
+10,Azerbaijan,Azerbaijan,40.5,47.5,ASIA,
+11,Bahamas,Bahamas,24.25,-76,AMERICAS,
+12,Bahrain,Bahrain,26,50.55,MIDDLE EAST,
+13,Bangladesh,Bangladesh,24,90,ASIA,SOUTHERN ASIA
+14,Barbados,Barbados,13.17,-59.53,AMERICAS,
+15,Belarus,Belarus,53,28,EUROPE,EASTERN EUROPE
+16,Belgium,Belgium,50.83,4,EUROPE,
+17,Belize,Belize,17.25,-88.75,AMERICAS,
+18,Benin,Benin,9.5,2.25,AFRICA,
+19,Bhutan,Bhutan,27.5,90.5,ASIA,
+20,Bolivia,Bolivia,-17,-65,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+21,Bosnia & Herzegovina,Bosnia & Herzegovina,44,18,EUROPE,
+22,Botswana,Botswana,-22,24,AFRICA,
+23,Brazil,Brazil,-10,-55,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+24,Brunei Darusalam,Brunei Darusalam,4.5,114.67,ASIA,
+25,Bulgaria,Bulgaria,43,25,EUROPE,EASTERN EUROPE
+26,Burkina Faso,Burkina Faso,13,-2,AFRICA,
+27,Burundi,Burundi,-3.5,30,AFRICA,
+28,Cambodia,Cambodia,13,105,ASIA,SOUTH-EASTERN ASIA
+29,Cameroon,Cameroon,6,12,AFRICA,
+30,Canada,Canada,60,-95,AMERICAS,NORTHERN AMERICA
+31,Cape Verde,Cape Verde,16,-24,AFRICA,
+32,Central African Republic,Central African Republic,7,21,AFRICA,
+33,Chad,Chad,15,19,AFRICA,
+34,Chile,Chile,-30,-71,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+35,China,China,35,105,ASIA,EASTERN ASIA
+36,Colombia,Colombia,4,-72,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+37,Comoros,Comoros,-12.17,44.25,AFRICA,
+38,Congo (Rep of the),Congo (Rep of the),-1,15,AFRICA,
+39,Congo (Dem Rep of the),Congo (Dem Rep of the),0,25,AFRICA,SUB-SAHARAN AFRICA
+40,Cook Islands,Cook Islands,-21.23,-159.77,OCEANIA,
+41,Costa Rica,Costa Rica,10,-84,AMERICAS,
+42,Ivory Coast,Ivory Coast,8,-5,AFRICA,
+43,Croatia,Croatia,45.17,15.5,EUROPE,
+44,Cuba,Cuba,21.5,-80,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+45,Cyprus,Cyprus,35,33,MIDDLE EAST,
+46,Czech Republic,Czech Republic,49.75,15.5,EUROPE,EASTERN EUROPE
+47,Denmark,Denmark,56,10,EUROPE,
+48,Djibouti,Djibouti,11.5,43,AFRICA,
+49,Dominica,Dominica,15.42,-61.33,AMERICAS,
+50,Dominican Republic,Dominican Republic,19,-70.67,AMERICAS,
+51,North Korea,North Korea,40,127,ASIA,
+52,Ecuador,Ecuador,-2,-77.5,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+53,Egypt,Egypt,27,30,AFRICA,NORTHERN AFRICA
+54,El Salvador,El Salvador,13.83,-88.92,AMERICAS,
+55,Equatorial Guinea,Equatorial Guinea,2,10,AFRICA,
+56,Eritrea,Eritrea,15,39,AFRICA,
+57,Estonia,Estonia,59,26,EUROPE,
+58,Ethiopia,Ethiopia,8,38,AFRICA,SUB-SAHARAN AFRICA
+59,Fiji,Fiji,-18,175,OCEANIA,
+60,Finland,Finland,64,26,EUROPE,NORTHERN EUROPE
+61,France,France,46,2,EUROPE,WESTERN EUROPE
+62,Gabon,Gabon,-1,11.75,AFRICA,
+63,Gambia,Gambia,13.47,-16.57,AFRICA,
+64,Georgia,Georgia,42,43.5,ASIA,
+65,Germany,Germany,51,9,EUROPE,
+66,Ghana,Ghana,8,-2,AFRICA,SUB-SAHARAN AFRICA
+67,Greece,Greece,39,22,EUROPE,
+68,Grenada,Grenada,12.12,-61.67,AMERICAS,
+69,Guatemala,Guatemala,15.5,-90.25,AMERICAS,
+70,Guinea,Guinea,11,-10,AFRICA,
+71,Guinea-Bissau,Guinea-Bissau,12,-15,AFRICA,
+72,Guyana,Guyana,5,-59,AMERICAS,
+73,Haiti,Haiti,19,-72.42,AMERICAS,
+74,Holy See,Holy See,41.9,12.45,EUROPE,
+75,Honduras,Honduras,15,-86.5,AMERICAS,
+76,Hong Kong,Hong Kong,22.25,114.17,ASIA,SOUTH-EASTERN ASIA
+77,Hungary,Hungary,47,20,EUROPE,EASTERN EUROPE
+78,Iceland,Iceland,65,-18,EUROPE,
+79,India,India,20,77,MIDDLE EAST,SOUTHERN ASIA
+80,Indonesia,Indonesia,-5,120,ASIA,SOUTH-EASTERN ASIA
+81,Iran,Iran,32,53,MIDDLE EAST,SOUTHERN ASIA
+82,Iraq,Iraq,33,44,MIDDLE EAST,
+83,Ireland,Ireland,53,-8,EUROPE,
+84,Israel,Israel,31.5,34.75,MIDDLE EAST,
+85,Italy,Italy,42.83,12.83,EUROPE,
+86,Jamaica,Jamaica,18.25,-77.5,AMERICAS,
+87,Japan,Japan,36,138,ASIA,EASTERN ASIA
+88,Jordan,Jordan,31,36,MIDDLE EAST,MIDDLE EAST
+89,Kazakhstan,Kazakhstan,48,68,ASIA,CENTRAL ASIA
+90,Kenya,Kenya,1,38,AFRICA,
+91,Kiribati,Kiribati,1.42,173,OCEANIA,
+92,Kosovo,Kosovo,,,EUROPE,
+93,Kuwait,Kuwait,29.34,47.66,MIDDLE EAST,MIDDLE EAST
+94,Kyrgyzstan,Kyrgyzstan,41,75,ASIA,CENTRAL ASIA
+95,Laos,Laos,18,105,ASIA,
+96,Latvia,Latvia,57,25,EUROPE,
+97,Lebanon,Lebanon,33.83,35.83,MIDDLE EAST,
+98,Lesotho,Lesotho,-29.5,28.5,AFRICA,
+99,Liberia,Liberia,6.5,-9.5,AFRICA,
+100,Libya,Libya,25,17,AFRICA,NORTHERN AFRICA
+101,Liechtenstein,Liechtenstein,47.17,9.53,EUROPE,
+102,Lithuania,Lithuania,56,24,EUROPE,
+103,Luxembourg,Luxembourg,49.75,6.17,EUROPE,
+104,Macedonia,Macedonia,41.83,22,EUROPE,
+105,Madagascar,Madagascar,-20,47,AFRICA,
+106,Malawi,Malawi,-13.5,34,AFRICA,
+107,Malaysia,Malaysia,2.5,112.5,ASIA,
+108,Maldives,Maldives,3.25,73,ASIA,
+109,Mali,Mali,17,-4,AFRICA,
+110,Malta,Malta,35.83,14.58,EUROPE,
+111,Marshall Islands,Marshall Islands,9,168,OCEANIA,
+112,Mauritania,Mauritania,20,-12,AFRICA,
+113,Mauritius,Mauritius,-20.28,57.55,AFRICA,
+114,Mexico,Mexico,23,-102,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+115,Micronesia,Micronesia,6.92,158.25,OCEANIA,
+116,Moldova,Moldova,47,29,EUROPE,
+117,Monaco,Monaco,43.73,7.4,EUROPE,
+118,Mongolia,Mongolia,46,105,ASIA,EASTERN ASIA
+119,Montenegro,Montenegro,42,19,EUROPE,
+120,Morocco,Morocco,32,-5,AFRICA,NORTHERN AFRICA
+121,Mozambique,Mozambique,-18.25,35,AFRICA,
+122,Myanmar,Myanmar,22,98,ASIA,SOUTH-EASTERN ASIA
+123,Namibia,Namibia,-22,17,AFRICA,
+124,Nauru,Nauru,-0.53,166.92,OCEANIA,
+125,Nepal,Nepal,28,84,ASIA,
+126,Netherlands,Netherlands,52.5,5.75,EUROPE,
+127,New Zealand,New Zealand,-41,174,OCEANIA,
+128,Nicaragua,Nicaragua,13,-85,AMERICAS,
+129,Niger,Niger,16,8,AFRICA,
+130,Nigeria,Nigeria,10,8,AFRICA,SUB-SAHARAN AFRICA
+131,Niue,Niue,-19.03,-169.87,OCEANIA,
+132,Norway,Norway,62,10,EUROPE,NORTHERN EUROPE
+133,Oman,Oman,21,57,MIDDLE EAST,
+134,Pakistan,Pakistan,30,70,ASIA,
+135,Palau,Palau,7.5,134.5,OCEANIA,
+136,Palestine,Palestine,32,35.25,MIDDLE EAST,
+137,Panama,Panama,9,-80,AMERICAS,
+138,Papua New Guinea,Papua New Guinea,-6,147,OCEANIA,
+139,Paraguay,Paraguay,-23,-58,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+140,Peru,Peru,-10,-76,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+141,Philippines,Philippines,13,122,ASIA,
+142,Poland,Poland,52,20,EUROPE,EASTERN EUROPE
+143,Portugal,Portugal,39.5,-8,EUROPE,SOUTHERN EUROPE
+144,Qatar,Qatar,25.5,51.25,MIDDLE EAST,
+145,South Korea,South Korea,37,127.5,ASIA,EASTERN ASIA
+146,Romania,Romania,46,25,EUROPE,
+147,Russia,Russia,60,100,EUROPE,EASTERN EUROPE
+148,Rwanda,Rwanda,-2,30,AFRICA,SUB-SAHARAN AFRICA
+149,Saint Kitts & Nevis,Saint Kitts & Nevis,17.33,-62.75,AMERICAS,
+150,Saint Vincent & Grenadines,Saint Vincent & Grenadines,13.25,-61.2,AMERICAS,
+151,Samoa,Samoa,-13.58,-172.33,OCEANIA,
+152,San Marino,San Marino,43.77,12.42,EUROPE,
+153,Sao Tome & Principe,Sao Tome & Principe,1,7,AFRICA,
+154,Saudi Arabia,Saudi Arabia,25,45,MIDDLE EAST,MIDDLE EAST
+155,Senegal,Senegal,14,-14,AFRICA,
+156,Serbia,Serbia,44,21,EUROPE,SOUTHERN EUROPE
+157,Seychelles,Seychelles,-4.58,55.67,AFRICA,
+158,Sierra Leone,Sierra Leone,8.5,-11.5,AFRICA,
+159,Singapore,Singapore,1.37,103.8,ASIA,
+160,Slovakia,Slovakia,48.67,19.5,EUROPE,
+161,Slovenia,Slovenia,46,15,EUROPE,
+162,Solomon Islands,Solomon Islands,-8,159,OCEANIA,
+163,Somalia,Somalia,10,49,AFRICA,
+164,South Africa,South Africa,-29,24,AFRICA,SUB-SAHARAN AFRICA
+165,South Sudan,South Sudan,,,AFRICA,
+166,Spain,Spain,40,-4,EUROPE,SOUTHERN EUROPE
+167,Sri Lanka,Sri Lanka,7,81,ASIA,SOUTHERN ASIA
+168,Sudan,Sudan,15,30,AFRICA,NORTHERN AFRICA
+169,Suriname,Suriname,4,-56,AMERICAS,
+170,Swaziland,Swaziland,-26.5,31.5,AFRICA,
+171,Sweden,Sweden,62,15,EUROPE,NORTHERN EUROPE
+172,Switzerland,Switzerland,47,8,EUROPE,WESTERN EUROPE
+173,Syria,Syria,35,38,MIDDLE EAST,MIDDLE EAST
+174,Taiwan,Taiwan,23.5,121,ASIA,EASTERN ASIA
+175,Tajikistan,Tajikistan,39,71,ASIA,CENTRAL ASIA
+176,Tanzania,Tanzania,-6,35,AFRICA,
+177,Thailand,Thailand,15,100,ASIA,SOUTH-EASTERN ASIA
+178,Timor-Leste,Timor-Leste,,,ASIA,
+179,Togo,Togo,8,1.17,AFRICA,
+180,Tonga,Tonga,-20,-175,OCEANIA,
+181,Trinidad & Tobago,Trinidad & Tobago,11,-61,AMERICAS,
+182,Tunisia,Tunisia,34,9,AFRICA,NORTHERN AFRICA
+183,Turkey,Turkey,39,35,ASIA,WESTERN ASIA
+184,Turkmenistan,Turkmenistan,40,60,ASIA,
+185,Tuvalu,Tuvalu,-8,178,OCEANIA,
+186,Uganda,Uganda,1,32,AFRICA,SUB-SAHARAN AFRICA
+187,Ukraine,Ukraine,49,32,EUROPE,EASTERN EUROPE
+188,United Arab Emirates,UAE,24,54,MIDDLE EAST,MIDDLE EAST
+189,United Kingdom,United Kingdom,54,-2,EUROPE,NORTHERN EUROPE
+190,United States,United States,38,-97,AMERICAS,NORTHERN AMERICA
+191,Uruguay,Uruguay,-33,-56,AMERICAS,
+192,Uzbekistan,Uzbekistan,41,64,ASIA,CENTRAL ASIA
+193,Vanuatu,Vanuatu,-16,167,OCEANIA,
+194,Venezuela,Venezuela,8,-66,AMERICAS,LATIN AMERICA AND THE CARIBBEAN
+195,Vietnam,Vietnam,14.1,108.3,ASIA,SOUTH-EASTERN ASIA
+196,Yemen,Yemen,16.2,49,MIDDLE EAST,
+197,Zambia,Zambia,-15,30,AFRICA,SUB-SAHARAN AFRICA
+198,Zimbabwe,Zimbabwe,-20,30,AFRICA,
+199,European Union,European Union,53,9,EUROPE,
+200,British Virgin Islands,British Virgin Islands,18.4,-64.6,AMERICAS,
+201,Bermuda,Bermuda,32.3,-64.8,AMERICAS,
+202,Guernsey,Guernsey,49.4,-2.6,EUROPE,
+203,South Vietnam,South Vietnam,10.8,106.6,ASIA,
+204,Austria-Hungary,Austria-Hungary,48.2,16.4,EUROPE,
+205,North Yemen,North Yemen,15.5,44,MIDDLE EAST,
+206,Yugoslavia,Yugoslavia,44.8,20.4,EUROPE,
+207,Czechoslovakia,Czechoslovakia,50.1,14.4,EUROPE,
+208,Modena,Modena,44.6,10.9,EUROPE,
+209,Tuscany,Tuscany,43.8,11.2,EUROPE,
+210,Papal States,Papal States,41.7,13,EUROPE,
+211,Two Sicilies,Two Sicilies,40.9,14.3,EUROPE,
+212,Hanover,Hanover,52.4,9.7,EUROPE,
+213,Mecklenburg Schwerin,Mecklenburg Schwerin,53.6,11.4,EUROPE,
+214,Bavaria,Bavaria,48.8,11.5,EUROPE,
+215,Wuerttemburg,Wuerttemburg,48.8,9.3,EUROPE,
+216,Hesse Electoral,Hesse Electoral,51.3,9.5,EUROPE,
+217,Hesse Grand Ducal,Hesse Grand Ducal,49.9,8.7,EUROPE,
+218,Baden,Baden,48.8,8.2,EUROPE,
+219,Saxony,Saxony,51.1,13.2,EUROPE,
+220,West Germany,West Germany,50.7,7.1,EUROPE,
