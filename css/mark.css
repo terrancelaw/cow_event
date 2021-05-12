@@ -1,0 +1,20 @@
+mark {
+    background: #f8fafc;
+    color: #568EBD;
+    border-radius: 2px;
+    text-decoration: underline;
+}
+
+.title > mark {
+	background: white;
+    color: black;
+    border-radius: 0px;
+    text-decoration: none;
+}
+
+#tooltip.dropdown-menu-items > .container > .item-header > mark {
+	background: #f8fafc;
+	color: steelblue;
+	border-radius: 0px;
+    text-decoration: none;
+}

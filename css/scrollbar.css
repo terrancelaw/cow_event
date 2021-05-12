@@ -1,0 +1,18 @@
+#vis-pane > .scrollbar {
+	position: absolute;
+    width: 10px;
+    height: 100%;
+    right: 0px;
+    top: 0px;
+
+    border-radius: 2px;
+    z-index: 1000;
+}
+
+#vis-pane > .scrollbar > .thumb {
+	position: absolute;
+	width: 100%;
+
+	background: #d3d3d3;
+	border-radius: 2px;
+}

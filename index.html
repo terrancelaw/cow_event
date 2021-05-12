@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+	<title>Correlates of War</title>
+
+	<link rel="stylesheet" type="text/css" href="fonts/fontawesome-free-5.14.0-web/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/font.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-slider.css">
+	<link rel="stylesheet" type="text/css" href="css/mark.css">
+	<link rel="stylesheet" type="text/css" href="css/radio-button.css">
+	<link rel="stylesheet" type="text/css" href="css/loader.css">
+	<link rel="stylesheet" type="text/css" href="css/dropdown.css">
+	<link rel="stylesheet" type="text/css" href="css/scrollbar.css">
+	
+	<script src="vendor/d3.v6.min.js"></script>
+	<script src="vendor/jquery-3.5.1.min.js"></script>
+	<script src="vendor/pluralize.js"></script>
+	<script src="vendor/mark.min.js"></script>
+	<script src="vendor/bootstrap-slider.js"></script>
+</head>
+
+<body class="loader-installed">
+
+	<div id="left-column">
+
+		<div id="setting-pane">
+
+			<div class="tab">
+				<span class="visualize button selected" tooltip="Visualize time series and events">
+					<span class="fa fa-chart-area"></span>
+				</span>
+
+				<span class="group button" tooltip="Group timelines">
+					<span class="fa fa-layer-group"></span>
+				</span>
+
+				<span class="filter button" tooltip="Filter groups and events">
+					<span class="fa fa-filter"></span>
+				</span>
+
+				<span class="encode button" tooltip="Map numbers to event height">
+					<span class="fa fa-arrows-alt-v"></span>
+				</span>
+
+				<span class="highlight button" tooltip="Highlight events">
+					<span class="fa fa-highlighter"></span>
+				</span>
+
+				<span class="other button" tooltip="Other settings">
+					<span class="fa fa-cog"></span>
+				</span>
+			</div>
+
+			<div class="search-box">
+				<input type="text">
+				<span class="fa fa-search"></span>
+			</div>
+
+			<div class="settings visualize"></div>
+
+		</div>
+
+	</div>
+
+	<div id="right-column">
+
+		<div id="vis-pane" class="loader-installed expanded">
+
+			<svg><g></g></svg>
+
+			<div class="legend"></div>
+
+			<div class="controls">
+				<span class="fa fa-search-plus" tooltip="Zoom in"></span>
+				<span class="fa fa-search-minus" tooltip="Zoom out"></span>
+			</div>
+
+			<div class="loader">
+				<div class="background"></div>
+				<div class="loader-container">
+					<div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+				</div>
+			</div>
+
+			<div class="scrollbar">
+				<div class="thumb"></div>
+			</div>
+
+		</div>
+
+		<div id="count-event-pane" class="loader-installed collapsed">
+
+			<div class="buttons">
+
+				<span class="expand-and-collapse button" tooltip="Expand count event pane">
+					<span class="fa fa-angle-double-left"></span>
+				</span>
+
+				<span class="show-and-hide-text button" tooltip="Hide chart descriptions">
+					<span class="fa fa-minus-circle"></span>
+				</span>
+
+			</div>
+
+			<div class="header"></div>
+
+			<div class="search-box">
+				<input type="text" placeholder="Search group name">
+				<span class="fa fa-search"></span>
+			</div>
+
+			<div class="content"></div>
+
+			<div class="loader">
+				<div class="background"></div>
+				<div class="loader-container">
+					<div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div id="tooltip"></div>
+	<div id="dropdown-menu"></div>
+
+	<div class="loader">
+		<div class="background"></div>
+		<div class="loader-container">
+			<div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+		</div>
+	</div>
+
+	<script src="js/start.js"></script>
+	<script src="js/configuration.js"></script>
+	<script src="js/database.js"></script>
+	<script src="js/body.js"></script>
+	<script src="js/clickEventListener.js"></script>
+
+	<script src="js/settingPane.js"></script>
+</body>

@@ -1,338 +1,338 @@
-ID,eventName,startYear,endYear,initiatorOrTargetoutcome,deaths
-166,Franco-Spanish War,1823,1823,target,lost,600
-61,Franco-Spanish War,1823,1823,initiator,won,400
-183,First Russo-Turkish,1828,1829,target,lost,80000
-147,First Russo-Turkish,1828,1829,initiator,won,50000
-114,Mexican-American,1846,1847,target,lost,6000
-190,Mexican-American,1846,1847,initiator,won,13283
-209,Austro-Sardinian,1848,1848,target,lost,100
-85,Austro-Sardinian,1848,1848,initiator,lost,3400
-204,Austro-Sardinian,1848,1848,target,won,3927
-208,Austro-Sardinian,1848,1848,target,lost,100
-65,First Schleswig-Holstein,1848,1848,initiator,won,2500
-47,First Schleswig-Holstein,1848,1848,target,lost,3500
-61,Roman Republic,1849,1849,initiator,won,1000
-211,Roman Republic,1849,1849,target,won,100
-204,Roman Republic,1849,1849,target,won,100
-210,Roman Republic,1849,1849,target,lost,1400
-6,La Plata,1851,1852,target,lost,800
-23,La Plata,1851,1852,initiator,won,500
-183,Crimean,1853,1856,initiator,won,45000
-85,Crimean,1855,1856,target,won,2200
-61,Crimean,1854,1856,target,won,95000
-189,Crimean,1854,1856,target,won,22000
-147,Crimean,1853,1856,target,lost,100000
-189,Anglo-Persian,1856,1857,initiator,won,500
-81,Anglo-Persian,1856,1857,target,lost,1500
-85,Italian Unification,1859,1859,target,won,2500
-204,Italian Unification,1859,1859,initiator,lost,12500
-61,Italian Unification,1859,1859,target,won,7500
-120,First Spanish-Moroccan,1859,1860,target,lost,6000
-166,First Spanish-Moroccan,1859,1860,initiator,won,4000
-85,Italian-Roman,1860,1860,initiator,won,300
-210,Italian-Roman,1860,1860,target,lost,700
-211,Neapolitan,1860,1861,target,lost,400
-85,Neapolitan,1860,1861,initiator,won,600
-114,Franco-Mexican,1862,1867,target,the war was transformed into another type of war,12000
-61,Franco-Mexican,1862,1867,initiator,the war was transformed into another type of war,8000
-36,Ecuadorian-Colombian,1863,1863,initiator,won,300
-52,Ecuadorian-Colombian,1863,1863,target,lost,700
-65,Second Schleswig-Holstein,1864,1864,initiator,won,1048
-47,Second Schleswig-Holstein,1864,1864,target,lost,2933
-204,Second Schleswig-Holstein,1864,1864,target,won,500
-6,Lopez,1865,1870,target,won,10000
-139,Lopez,1864,1870,initiator,lost,200000
-23,Lopez,1864,1870,target,won,100000
-34,Naval War,1865,1866,target,won,100
-140,Naval War,1866,1866,target,won,600
-166,Naval War,1865,1866,initiator,lost,300
-85,Seven Weeks,1866,1866,target,won,4000
-217,Seven Weeks,1866,1866,target,lost,100
-215,Seven Weeks,1866,1866,target,lost,100
-214,Seven Weeks,1866,1866,target,lost,500
-204,Seven Weeks,1866,1866,target,lost,28000
-65,Seven Weeks,1866,1866,initiator,won,10000
-213,Seven Weeks,1866,1866,target,won,100
-216,Seven Weeks,1866,1866,target,lost,100
-219,Seven Weeks,1866,1866,target,lost,600
-218,Seven Weeks,1866,1866,target,lost,100
-212,Seven Weeks,1866,1866,target,lost,500
-215,Franco-Prussian,1870,1870,target,won,976
-218,Franco-Prussian,1870,1870,target,won,956
-65,Franco-Prussian,1870,1871,target,won,44781
-214,Franco-Prussian,1870,1870,target,won,5600
-61,Franco-Prussian,1870,1871,initiator,lost,152000
-69,First Central American,1876,1876,initiator,won,2000
-54,First Central American,1876,1876,target,lost,2000
-183,Second Russo-Turkish,1877,1878,target,lost,165000
-147,Second Russo-Turkish,1877,1878,initiator,won,120000
-34,War of the Pacific,1879,1883,initiator,won,3276
-140,War of the Pacific,1879,1883,target,lost,9672
-20,War of the Pacific,1879,1883,target,lost,920
-53,Conquest of Egypt,1882,1882,target,lost,10000
-189,Conquest of Egypt,1882,1882,initiator,won,79
-61,Sino-French,1884,1885,initiator,won,2100
-35,Sino-French,1884,1885,target,lost,10000
-54,Second Central American,1885,1885,target,won,200
-69,Second Central American,1885,1885,initiator,lost,800
-35,First Sino-Japanese,1894,1895,target,lost,10000
-87,First Sino-Japanese,1894,1895,initiator,won,5000
-67,Greco-Turkish,1897,1897,initiator,lost,600
-183,Greco-Turkish,1897,1897,target,won,1400
-166,Spanish-American,1898,1898,target,lost,775
-190,Spanish-American,1898,1898,initiator,won,2910
-147,Boxer Rebellion,1900,1900,initiator,won,302
-87,Boxer Rebellion,1900,1900,initiator,won,622
-190,Boxer Rebellion,1900,1900,initiator,won,21
-35,Boxer Rebellion,1900,1900,target,lost,2000
-189,Boxer Rebellion,1900,1900,initiator,won,34
-61,Boxer Rebellion,1900,1900,initiator,won,24
-147,Sino-Russian,1900,1900,initiator,won,242
-35,Sino-Russian,1900,1900,target,lost,3758
-87,Russo-Japanese,1904,1905,initiator,won,80378
-147,Russo-Japanese,1904,1905,target,lost,71453
-75,Third Central American,1906,1906,target,lost,300
-54,Third Central American,1906,1906,target,lost,300
-69,Third Central American,1906,1906,initiator,won,400
-128,Fourth Central American,1907,1907,initiator,won,400
-54,Fourth Central American,1907,1907,target,lost,300
-75,Fourth Central American,1907,1907,target,lost,300
-166,Second Spanish-Moroccan,1909,1910,initiator,won,2000
-120,Second Spanish-Moroccan,1909,1910,target,lost,8000
-85,Italian-Turkish,1911,1912,initiator,won,6000
-183,Italian-Turkish,1911,1912,target,lost,14000
-183,First Balkan,1912,1913,target,lost,30000
-67,First Balkan,1912,1913,target,won,5000
-25,First Balkan,1912,1912,target,won,32000
-206,First Balkan,1912,1912,initiator,won,15000
-183,Second Balkan,1913,1913,target,won,20000
-206,Second Balkan,1913,1913,target,won,18500
-67,Second Balkan,1913,1913,target,won,2500
-25,Second Balkan,1913,1913,initiator,lost,18000
-146,Second Balkan,1913,1913,target,won,1500
-206,World War I,1914,1918,target,won,70000
-147,World War I,1914,1917,target,won,1700000
-25,World War I,1915,1918,target,lost,87500
-189,World War I,1914,1918,target,won,908371
-87,World War I,1914,1918,target,won,300
-143,World War I,1916,1918,target,won,7222
-183,World War I,1914,1918,target,lost,325000
-16,World War I,1914,1918,target,won,13716
-65,World War I,1914,1918,target,lost,1773700
-67,World War I,1917,1918,target,won,5000
-146,World War I,1916,1917,target,won,335706
-204,World War I,1914,1918,initiator,lost,1200000
-61,World War I,1914,1918,target,won,1385000
-85,World War I,1915,1918,target,won,650000
-190,World War I,1917,1918,target,won,116516
-57,Estonian Liberation,1918,1920,target,won,3600
-60,Estonian Liberation,1918,1920,target,won,150
-147,Estonian Liberation,1918,1920,initiator,lost,8000
-65,Latvian Liberation,1918,1919,target,changed sides,450
-147,Latvian Liberation,1918,1920,initiator,lost,8000
-65,Latvian Liberation,1919,1919,target,lost,750
-57,Latvian Liberation,1919,1920,target,won,1000
-96,Latvian Liberation,1918,1920,target,won,3046
-147,Russo-Polish,1919,1920,initiator,lost,60000
-142,Russo-Polish,1919,1920,target,won,40000
-77,Hungarian Adversaries,1919,1919,target,lost,6000
-207,Hungarian Adversaries,1919,1919,target,won,2000
-146,Hungarian Adversaries,1919,1919,initiator,won,3000
-183,Second Greco-Turkish,1919,1922,target,won,20000
-67,Second Greco-Turkish,1919,1922,initiator,lost,30000
-183,Franco-Turkish,1919,1921,target,tied,35000
-61,Franco-Turkish,1919,1921,initiator,tied,5000
-102,Lithuanian-Polish,1920,1920,target,lost,500
-142,Lithuanian-Polish,1920,1920,initiator,won,500
-147,Manchurian,1929,1929,initiator,won,200
-35,Manchurian,1929,1929,target,lost,3000
-87,Second Sino-Japanese,1931,1933,initiator,won,10000
-35,Second Sino-Japanese,1931,1933,target,lost,50000
-20,Chaco,1932,1935,initiator,lost,56661
-139,Chaco,1932,1935,target,won,36000
-154,Saudi-Yemeni,1934,1934,initiator,won,100
-205,Saudi-Yemeni,1934,1934,target,lost,2000
-85,Conquest of Ethiopia,1935,1936,initiator,won,4000
-58,Conquest of Ethiopia,1935,1936,target,lost,16000
-35,Third Sino-Japanese,1937,1941,target,lost,750000
-87,Third Sino-Japanese,1937,1941,initiator,won,250000
-147,Changkufeng,1938,1938,target,won,1200
-87,Changkufeng,1938,1938,initiator,lost,526
-147,Nomonhan,1939,1939,target,won,5000
-118,Nomonhan,1939,1939,target,won,3000
-87,Nomonhan,1939,1939,initiator,lost,20000
-77,World War II,1941,1945,target,lost,136000
-16,World War II,1940,1940,target,won,9600
-61,World War II,1940,1941,target,lost,2500
-206,World War II,1941,1941,target,won,305000
-60,World War II,1941,1944,target,lost,65000
-132,World War II,1940,1940,target,won,3000
-30,World War II,1939,1945,target,won,41992
-190,World War II,1941,1945,target,won,405400
-189,World War II,1939,1945,target,won,418765
-126,World War II,1940,1940,target,won,7900
-85,World War II,1940,1943,target,lost,174500
-146,World War II,1944,1945,target,won,10000
-146,World War II,1941,1944,target,lost,290000
-25,World War II,1941,1944,target,lost,9000
-25,World War II,1944,1945,target,won,1000
-67,World War II,1940,1941,target,won,18300
-23,World War II,1944,1945,target,won,1000
-85,World War II,1943,1945,target,won,52400
-8,World War II,1939,1945,target,won,33826
-127,World War II,1939,1945,target,won,12200
-147,World War II,1941,1945,target,won,7500000
-65,World War II,1939,1945,initiator,lost,3500000
-142,World War II,1939,1939,target,won,320000
-61,World War II,1939,1940,target,won,210824
-87,World War II,1941,1945,target,lost,1740000
-118,World War II,1945,1945,target,won,3000
-35,World War II,1941,1945,target,won,1350000
-164,World War II,1939,1945,target,won,8700
-58,World War II,1941,1941,target,won,5000
-60,Russo-Finnish,1939,1940,target,lost,24923
-147,Russo-Finnish,1939,1940,initiator,won,126875
-61,Franco-Thai,1940,1941,target,lost,700
-177,Franco-Thai,1940,1941,initiator,won,700
-79,First Kashmir,1947,1949,initiator,stalemate,2500
-134,First Kashmir,1947,1949,target,stalemate,1000
-84,Arab-Israeli,1948,1948,target,won,3000
-53,Arab-Israeli,1948,1948,target,lost,2000
-173,Arab-Israeli,1948,1948,target,lost,1000
-97,Arab-Israeli,1948,1948,target,lost,500
-88,Arab-Israeli,1948,1948,initiator,lost,1000
-82,Arab-Israeli,1948,1948,target,lost,500
-35,Korean,1950,1953,target,stalemate,422612
-16,Korean,1951,1953,target,stalemate,97
-30,Korean,1950,1953,target,stalemate,309
-36,Korean,1951,1953,target,stalemate,140
-189,Korean,1950,1953,target,stalemate,710
-126,Korean,1951,1953,target,stalemate,111
-67,Korean,1951,1953,target,stalemate,169
-61,Korean,1951,1953,target,stalemate,288
-183,Korean,1950,1953,target,stalemate,717
-141,Korean,1950,1953,target,stalemate,92
-177,Korean,1951,1953,target,stalemate,114
-51,Korean,1950,1953,initiator,stalemate,316579
-58,Korean,1951,1953,target,stalemate,120
-8,Korean,1950,1953,target,stalemate,291
-145,Korean,1950,1953,target,stalemate,113248
-190,Korean,1950,1953,target,stalemate,54487
-35,Off-shore Islands,1954,1955,initiator,won,1003
-174,Off-shore Islands,1954,1955,target,lost,1367
-61,Sinai War,1956,1956,target,won,10
-84,Sinai War,1956,1956,initiator,won,189
-53,Sinai War,1956,1956,target,lost,3000
-189,Sinai War,1956,1956,target,won,22
-77,Soviet Invasion of Hungary,1956,1956,target,lost,926
-147,Soviet Invasion of Hungary,1956,1956,initiator,won,1500
-61,IfniWar,1958,1958,target,won,0
-166,IfniWar,1957,1958,target,won,122
-120,IfniWar,1957,1958,initiator,lost,1000
-35,Taiwan Straits,1958,1958,initiator,stalemate,300
-174,Taiwan Straits,1958,1958,target,stalemate,1500
-79,Assam,1962,1962,target,lost,1353
-35,Assam,1962,1962,initiator,won,500
-190,"Vietnam War, Phase 2",1965,1973,initiator,lost,58153
-28,"Vietnam War, Phase 2",1970,1975,target,lost,2500
-145,"Vietnam War, Phase 2",1965,1973,target,lost,4687
-141,"Vietnam War, Phase 2",1966,1973,target,lost,1000
-203,"Vietnam War, Phase 2",1965,1975,target,lost,254257
-195,"Vietnam War, Phase 2",1965,1975,target,won,700000
-177,"Vietnam War, Phase 2",1967,1973,target,lost,351
-8,"Vietnam War, Phase 2",1965,1972,target,lost,494
-79,Second Kashmir,1965,1965,target,lost,3261
-134,Second Kashmir,1965,1965,initiator,won,3800
-84,Six Day War,1967,1967,initiator,won,1000
-53,Six Day War,1967,1967,target,lost,10000
-88,Six Day War,1967,1967,target,lost,6100
-173,Six Day War,1967,1967,target,lost,2500
-190,"Second Laotian, Phase 2",1968,1973,target,lost,375
-177,"Second Laotian, Phase 2",1970,1973,target,lost,-9
-95,"Second Laotian, Phase 2",1968,1973,target,lost,11250
-195,"Second Laotian, Phase 2",1968,1973,initiator,won,2250
-53,War of Attrition,1969,1970,initiator,stalemate,5000
-84,War of Attrition,1969,1970,target,stalemate,368
-75,Football War,1969,1969,target,lost,1200
-54,Football War,1969,1969,initiator,won,700
-195,Communist Coalition,1970,1971,initiator,the war was transformed into another type of war,400
-190,Communist Coalition,1970,1971,target,the war was transformed into another type of war,125
-28,Communist Coalition,1970,1971,target,the war was transformed into another type of war,5000
-203,Communist Coalition,1970,1971,target,the war was transformed into another type of war,1000
-79,Bangladesh,1971,1971,target,won,3241
-134,Bangladesh,1971,1971,initiator,lost,7982
-53,Yom Kippur War,1973,1973,initiator,lost,7700
-154,Yom Kippur War,1973,1973,target,lost,100
-84,Yom Kippur War,1973,1973,target,won,2838
-88,Yom Kippur War,1973,1973,target,lost,23
-173,Yom Kippur War,1973,1973,initiator,lost,3500
-82,Yom Kippur War,1973,1973,target,lost,278
-183,Turco-Cypriot,1974,1974,initiator,won,1000
-45,Turco-Cypriot,1974,1974,target,lost,500
-44,War over Angola,1975,1976,target,the war was transformed into another type of war,1500
-164,War over Angola,1975,1976,initiator,the war was transformed into another type of war,100
-39,War over Angola,1975,1976,target,the war was transformed into another type of war,100
-4,War over Angola,1975,1976,target,the war was transformed into another type of war,1000
-58,"Second Ogaden War, Phase 2",1977,1978,target,the war was transformed into another type of war,1800
-44,"Second Ogaden War, Phase 2",1977,1978,target,the war was transformed into another type of war,700
-163,"Second Ogaden War, Phase 2",1977,1978,initiator,the war was transformed into another type of war,8000
-195,Vietnamese-Cambodian,1977,1979,target,the war was transformed into another type of war,3000
-28,Vietnamese-Cambodian,1977,1979,initiator,the war was transformed into another type of war,5000
-186,Ugandian-Tanzanian,1978,1979,initiator,lost,1500
-176,Ugandian-Tanzanian,1978,1979,target,won,1000
-100,Ugandian-Tanzanian,1979,1979,target,lost,500
-35,Sino-Vietnamese Punitive,1979,1979,initiator,won,13000
-195,Sino-Vietnamese Punitive,1979,1979,target,lost,8000
-82,Iran-Iraq,1980,1988,initiator,stalemate,500000
-81,Iran-Iraq,1980,1988,target,stalemate,750000
-189,Falkland Islands,1982,1982,target,won,255
-6,Falkland Islands,1982,1982,initiator,lost,746
-84,War over Lebanon,1982,1982,initiator,stalemate,455
-173,War over Lebanon,1982,1982,target,stalemate,1200
-33,War over the Aouzou Strip,1986,1987,initiator,won,1000
-100,War over the Aouzou Strip,1986,1987,target,lost,7000
-195,Sino-Vietnamese Border War,1987,1987,target,stalemate,2200
-35,Sino-Vietnamese Border War,1987,1987,initiator,stalemate,1800
-93,Gulf War,1990,1991,target,won,1000
-190,Gulf War,1991,1991,target,won,376
-30,Gulf War,1991,1991,target,won,0
-189,Gulf War,1991,1991,target,won,24
-85,Gulf War,1991,1991,target,won,0
-120,Gulf War,1991,1991,target,won,0
-82,Gulf War,1990,1991,initiator,lost,40000
-53,Gulf War,1991,1991,target,won,14
-133,Gulf War,1991,1991,target,won,0
-61,Gulf War,1991,1991,target,won,2
-188,Gulf War,1991,1991,target,won,6
-144,Gulf War,1991,1991,target,won,0
-154,Gulf War,1991,1991,target,won,44
-173,Gulf War,1991,1991,target,won,0
-43,Bosnian Independence,1992,1992,target,the war was transformed into another type of war,500
-21,Bosnian Independence,1992,1992,target,the war was transformed into another type of war,2850
-206,Bosnian Independence,1992,1992,initiator,the war was transformed into another type of war,1890
-10,Azeri-Armenian,1993,1994,target,lost,8500
-7,Azeri-Armenian,1993,1994,initiator,won,5500
-52,Cenepa Valley,1995,1995,initiator,tied,550
-140,Cenepa Valley,1995,1995,target,tied,950
-56,Badme Border,1998,2000,initiator,stalemate,50000
-58,Badme Border,1998,2000,target,stalemate,70000
-183,War for Kosovo,1999,1999,initiator,won,0
-85,War for Kosovo,1999,1999,initiator,won,0
-189,War for Kosovo,1999,1999,initiator,won,0
-190,War for Kosovo,1999,1999,initiator,won,2
-126,War for Kosovo,1999,1999,initiator,won,0
-61,War for Kosovo,1999,1999,initiator,won,0
-206,War for Kosovo,1999,1999,target,lost,5000
-65,War for Kosovo,1999,1999,initiator,won,0
-79,Kargil War,1999,1999,target,won,474
-134,Kargil War,1999,1999,initiator,lost,698
-30,Invasion of Afghanistan,2001,2001,target,the war was transformed into another type of war,0
-61,Invasion of Afghanistan,2001,2001,target,the war was transformed into another type of war,0
-189,Invasion of Afghanistan,2001,2001,initiator,the war was transformed into another type of war,0
-190,Invasion of Afghanistan,2001,2001,initiator,the war was transformed into another type of war,2
-8,Invasion of Afghanistan,2001,2001,target,the war was transformed into another type of war,0
-0,Invasion of Afghanistan,2001,2001,target,the war was transformed into another type of war,4000
-8,Invasion of Iraq,2003,2003,initiator,the war was transformed into another type of war,0
-189,Invasion of Iraq,2003,2003,initiator,the war was transformed into another type of war,33
-190,Invasion of Iraq,2003,2003,initiator,the war was transformed into another type of war,140
-82,Invasion of Iraq,2003,2003,target,the war was transformed into another type of war,7000
+ID,eventName,warName,startYear,endYear,initiatorOrTarget,outcome,deaths
+166,war,Franco-Spanish War,1823,1823,target,lost,600
+61,war,Franco-Spanish War,1823,1823,initiator,won,400
+183,war,First Russo-Turkish,1828,1829,target,lost,80000
+147,war,First Russo-Turkish,1828,1829,initiator,won,50000
+114,war,Mexican-American,1846,1847,target,lost,6000
+190,war,Mexican-American,1846,1847,initiator,won,13283
+209,war,Austro-Sardinian,1848,1848,target,lost,100
+85,war,Austro-Sardinian,1848,1848,initiator,lost,3400
+204,war,Austro-Sardinian,1848,1848,target,won,3927
+208,war,Austro-Sardinian,1848,1848,target,lost,100
+65,war,First Schleswig-Holstein,1848,1848,initiator,won,2500
+47,war,First Schleswig-Holstein,1848,1848,target,lost,3500
+61,war,Roman Republic,1849,1849,initiator,won,1000
+211,war,Roman Republic,1849,1849,target,won,100
+204,war,Roman Republic,1849,1849,target,won,100
+210,war,Roman Republic,1849,1849,target,lost,1400
+6,war,La Plata,1851,1852,target,lost,800
+23,war,La Plata,1851,1852,initiator,won,500
+183,war,Crimean,1853,1856,initiator,won,45000
+85,war,Crimean,1855,1856,target,won,2200
+61,war,Crimean,1854,1856,target,won,95000
+189,war,Crimean,1854,1856,target,won,22000
+147,war,Crimean,1853,1856,target,lost,100000
+189,war,Anglo-Persian,1856,1857,initiator,won,500
+81,war,Anglo-Persian,1856,1857,target,lost,1500
+85,war,Italian Unification,1859,1859,target,won,2500
+204,war,Italian Unification,1859,1859,initiator,lost,12500
+61,war,Italian Unification,1859,1859,target,won,7500
+120,war,First Spanish-Moroccan,1859,1860,target,lost,6000
+166,war,First Spanish-Moroccan,1859,1860,initiator,won,4000
+85,war,Italian-Roman,1860,1860,initiator,won,300
+210,war,Italian-Roman,1860,1860,target,lost,700
+211,war,Neapolitan,1860,1861,target,lost,400
+85,war,Neapolitan,1860,1861,initiator,won,600
+114,war,Franco-Mexican,1862,1867,target,the war was transformed into another type of war,12000
+61,war,Franco-Mexican,1862,1867,initiator,the war was transformed into another type of war,8000
+36,war,Ecuadorian-Colombian,1863,1863,initiator,won,300
+52,war,Ecuadorian-Colombian,1863,1863,target,lost,700
+65,war,Second Schleswig-Holstein,1864,1864,initiator,won,1048
+47,war,Second Schleswig-Holstein,1864,1864,target,lost,2933
+204,war,Second Schleswig-Holstein,1864,1864,target,won,500
+6,war,Lopez,1865,1870,target,won,10000
+139,war,Lopez,1864,1870,initiator,lost,200000
+23,war,Lopez,1864,1870,target,won,100000
+34,war,Naval War,1865,1866,target,won,100
+140,war,Naval War,1866,1866,target,won,600
+166,war,Naval War,1865,1866,initiator,lost,300
+85,war,Seven Weeks,1866,1866,target,won,4000
+217,war,Seven Weeks,1866,1866,target,lost,100
+215,war,Seven Weeks,1866,1866,target,lost,100
+214,war,Seven Weeks,1866,1866,target,lost,500
+204,war,Seven Weeks,1866,1866,target,lost,28000
+65,war,Seven Weeks,1866,1866,initiator,won,10000
+213,war,Seven Weeks,1866,1866,target,won,100
+216,war,Seven Weeks,1866,1866,target,lost,100
+219,war,Seven Weeks,1866,1866,target,lost,600
+218,war,Seven Weeks,1866,1866,target,lost,100
+212,war,Seven Weeks,1866,1866,target,lost,500
+215,war,Franco-Prussian,1870,1870,target,won,976
+218,war,Franco-Prussian,1870,1870,target,won,956
+65,war,Franco-Prussian,1870,1871,target,won,44781
+214,war,Franco-Prussian,1870,1870,target,won,5600
+61,war,Franco-Prussian,1870,1871,initiator,lost,152000
+69,war,First Central American,1876,1876,initiator,won,2000
+54,war,First Central American,1876,1876,target,lost,2000
+183,war,Second Russo-Turkish,1877,1878,target,lost,165000
+147,war,Second Russo-Turkish,1877,1878,initiator,won,120000
+34,war,War of the Pacific,1879,1883,initiator,won,3276
+140,war,War of the Pacific,1879,1883,target,lost,9672
+20,war,War of the Pacific,1879,1883,target,lost,920
+53,war,Conquest of Egypt,1882,1882,target,lost,10000
+189,war,Conquest of Egypt,1882,1882,initiator,won,79
+61,war,Sino-French,1884,1885,initiator,won,2100
+35,war,Sino-French,1884,1885,target,lost,10000
+54,war,Second Central American,1885,1885,target,won,200
+69,war,Second Central American,1885,1885,initiator,lost,800
+35,war,First Sino-Japanese,1894,1895,target,lost,10000
+87,war,First Sino-Japanese,1894,1895,initiator,won,5000
+67,war,Greco-Turkish,1897,1897,initiator,lost,600
+183,war,Greco-Turkish,1897,1897,target,won,1400
+166,war,Spanish-American,1898,1898,target,lost,775
+190,war,Spanish-American,1898,1898,initiator,won,2910
+147,war,Boxer Rebellion,1900,1900,initiator,won,302
+87,war,Boxer Rebellion,1900,1900,initiator,won,622
+190,war,Boxer Rebellion,1900,1900,initiator,won,21
+35,war,Boxer Rebellion,1900,1900,target,lost,2000
+189,war,Boxer Rebellion,1900,1900,initiator,won,34
+61,war,Boxer Rebellion,1900,1900,initiator,won,24
+147,war,Sino-Russian,1900,1900,initiator,won,242
+35,war,Sino-Russian,1900,1900,target,lost,3758
+87,war,Russo-Japanese,1904,1905,initiator,won,80378
+147,war,Russo-Japanese,1904,1905,target,lost,71453
+75,war,Third Central American,1906,1906,target,lost,300
+54,war,Third Central American,1906,1906,target,lost,300
+69,war,Third Central American,1906,1906,initiator,won,400
+128,war,Fourth Central American,1907,1907,initiator,won,400
+54,war,Fourth Central American,1907,1907,target,lost,300
+75,war,Fourth Central American,1907,1907,target,lost,300
+166,war,Second Spanish-Moroccan,1909,1910,initiator,won,2000
+120,war,Second Spanish-Moroccan,1909,1910,target,lost,8000
+85,war,Italian-Turkish,1911,1912,initiator,won,6000
+183,war,Italian-Turkish,1911,1912,target,lost,14000
+183,war,First Balkan,1912,1913,target,lost,30000
+67,war,First Balkan,1912,1913,target,won,5000
+25,war,First Balkan,1912,1912,target,won,32000
+206,war,First Balkan,1912,1912,initiator,won,15000
+183,war,Second Balkan,1913,1913,target,won,20000
+206,war,Second Balkan,1913,1913,target,won,18500
+67,war,Second Balkan,1913,1913,target,won,2500
+25,war,Second Balkan,1913,1913,initiator,lost,18000
+146,war,Second Balkan,1913,1913,target,won,1500
+206,war,World War I,1914,1918,target,won,70000
+147,war,World War I,1914,1917,target,won,1700000
+25,war,World War I,1915,1918,target,lost,87500
+189,war,World War I,1914,1918,target,won,908371
+87,war,World War I,1914,1918,target,won,300
+143,war,World War I,1916,1918,target,won,7222
+183,war,World War I,1914,1918,target,lost,325000
+16,war,World War I,1914,1918,target,won,13716
+65,war,World War I,1914,1918,target,lost,1773700
+67,war,World War I,1917,1918,target,won,5000
+146,war,World War I,1916,1917,target,won,335706
+204,war,World War I,1914,1918,initiator,lost,1200000
+61,war,World War I,1914,1918,target,won,1385000
+85,war,World War I,1915,1918,target,won,650000
+190,war,World War I,1917,1918,target,won,116516
+57,war,Estonian Liberation,1918,1920,target,won,3600
+60,war,Estonian Liberation,1918,1920,target,won,150
+147,war,Estonian Liberation,1918,1920,initiator,lost,8000
+65,war,Latvian Liberation,1918,1919,target,changed sides,450
+147,war,Latvian Liberation,1918,1920,initiator,lost,8000
+65,war,Latvian Liberation,1919,1919,target,lost,750
+57,war,Latvian Liberation,1919,1920,target,won,1000
+96,war,Latvian Liberation,1918,1920,target,won,3046
+147,war,Russo-Polish,1919,1920,initiator,lost,60000
+142,war,Russo-Polish,1919,1920,target,won,40000
+77,war,Hungarian Adversaries,1919,1919,target,lost,6000
+207,war,Hungarian Adversaries,1919,1919,target,won,2000
+146,war,Hungarian Adversaries,1919,1919,initiator,won,3000
+183,war,Second Greco-Turkish,1919,1922,target,won,20000
+67,war,Second Greco-Turkish,1919,1922,initiator,lost,30000
+183,war,Franco-Turkish,1919,1921,target,tied,35000
+61,war,Franco-Turkish,1919,1921,initiator,tied,5000
+102,war,Lithuanian-Polish,1920,1920,target,lost,500
+142,war,Lithuanian-Polish,1920,1920,initiator,won,500
+147,war,Manchurian,1929,1929,initiator,won,200
+35,war,Manchurian,1929,1929,target,lost,3000
+87,war,Second Sino-Japanese,1931,1933,initiator,won,10000
+35,war,Second Sino-Japanese,1931,1933,target,lost,50000
+20,war,Chaco,1932,1935,initiator,lost,56661
+139,war,Chaco,1932,1935,target,won,36000
+154,war,Saudi-Yemeni,1934,1934,initiator,won,100
+205,war,Saudi-Yemeni,1934,1934,target,lost,2000
+85,war,Conquest of Ethiopia,1935,1936,initiator,won,4000
+58,war,Conquest of Ethiopia,1935,1936,target,lost,16000
+35,war,Third Sino-Japanese,1937,1941,target,lost,750000
+87,war,Third Sino-Japanese,1937,1941,initiator,won,250000
+147,war,Changkufeng,1938,1938,target,won,1200
+87,war,Changkufeng,1938,1938,initiator,lost,526
+147,war,Nomonhan,1939,1939,target,won,5000
+118,war,Nomonhan,1939,1939,target,won,3000
+87,war,Nomonhan,1939,1939,initiator,lost,20000
+77,war,World War II,1941,1945,target,lost,136000
+16,war,World War II,1940,1940,target,won,9600
+61,war,World War II,1940,1941,target,lost,2500
+206,war,World War II,1941,1941,target,won,305000
+60,war,World War II,1941,1944,target,lost,65000
+132,war,World War II,1940,1940,target,won,3000
+30,war,World War II,1939,1945,target,won,41992
+190,war,World War II,1941,1945,target,won,405400
+189,war,World War II,1939,1945,target,won,418765
+126,war,World War II,1940,1940,target,won,7900
+85,war,World War II,1940,1943,target,lost,174500
+146,war,World War II,1944,1945,target,won,10000
+146,war,World War II,1941,1944,target,lost,290000
+25,war,World War II,1941,1944,target,lost,9000
+25,war,World War II,1944,1945,target,won,1000
+67,war,World War II,1940,1941,target,won,18300
+23,war,World War II,1944,1945,target,won,1000
+85,war,World War II,1943,1945,target,won,52400
+8,war,World War II,1939,1945,target,won,33826
+127,war,World War II,1939,1945,target,won,12200
+147,war,World War II,1941,1945,target,won,7500000
+65,war,World War II,1939,1945,initiator,lost,3500000
+142,war,World War II,1939,1939,target,won,320000
+61,war,World War II,1939,1940,target,won,210824
+87,war,World War II,1941,1945,target,lost,1740000
+118,war,World War II,1945,1945,target,won,3000
+35,war,World War II,1941,1945,target,won,1350000
+164,war,World War II,1939,1945,target,won,8700
+58,war,World War II,1941,1941,target,won,5000
+60,war,Russo-Finnish,1939,1940,target,lost,24923
+147,war,Russo-Finnish,1939,1940,initiator,won,126875
+61,war,Franco-Thai,1940,1941,target,lost,700
+177,war,Franco-Thai,1940,1941,initiator,won,700
+79,war,First Kashmir,1947,1949,initiator,stalemate,2500
+134,war,First Kashmir,1947,1949,target,stalemate,1000
+84,war,Arab-Israeli,1948,1948,target,won,3000
+53,war,Arab-Israeli,1948,1948,target,lost,2000
+173,war,Arab-Israeli,1948,1948,target,lost,1000
+97,war,Arab-Israeli,1948,1948,target,lost,500
+88,war,Arab-Israeli,1948,1948,initiator,lost,1000
+82,war,Arab-Israeli,1948,1948,target,lost,500
+35,war,Korean,1950,1953,target,stalemate,422612
+16,war,Korean,1951,1953,target,stalemate,97
+30,war,Korean,1950,1953,target,stalemate,309
+36,war,Korean,1951,1953,target,stalemate,140
+189,war,Korean,1950,1953,target,stalemate,710
+126,war,Korean,1951,1953,target,stalemate,111
+67,war,Korean,1951,1953,target,stalemate,169
+61,war,Korean,1951,1953,target,stalemate,288
+183,war,Korean,1950,1953,target,stalemate,717
+141,war,Korean,1950,1953,target,stalemate,92
+177,war,Korean,1951,1953,target,stalemate,114
+51,war,Korean,1950,1953,initiator,stalemate,316579
+58,war,Korean,1951,1953,target,stalemate,120
+8,war,Korean,1950,1953,target,stalemate,291
+145,war,Korean,1950,1953,target,stalemate,113248
+190,war,Korean,1950,1953,target,stalemate,54487
+35,war,Off-shore Islands,1954,1955,initiator,won,1003
+174,war,Off-shore Islands,1954,1955,target,lost,1367
+61,war,Sinai War,1956,1956,target,won,10
+84,war,Sinai War,1956,1956,initiator,won,189
+53,war,Sinai War,1956,1956,target,lost,3000
+189,war,Sinai War,1956,1956,target,won,22
+77,war,Soviet Invasion of Hungary,1956,1956,target,lost,926
+147,war,Soviet Invasion of Hungary,1956,1956,initiator,won,1500
+61,war,IfniWar,1958,1958,target,won,0
+166,war,IfniWar,1957,1958,target,won,122
+120,war,IfniWar,1957,1958,initiator,lost,1000
+35,war,Taiwan Straits,1958,1958,initiator,stalemate,300
+174,war,Taiwan Straits,1958,1958,target,stalemate,1500
+79,war,Assam,1962,1962,target,lost,1353
+35,war,Assam,1962,1962,initiator,won,500
+190,war,"Vietnam War, Phase 2",1965,1973,initiator,lost,58153
+28,war,"Vietnam War, Phase 2",1970,1975,target,lost,2500
+145,war,"Vietnam War, Phase 2",1965,1973,target,lost,4687
+141,war,"Vietnam War, Phase 2",1966,1973,target,lost,1000
+203,war,"Vietnam War, Phase 2",1965,1975,target,lost,254257
+195,war,"Vietnam War, Phase 2",1965,1975,target,won,700000
+177,war,"Vietnam War, Phase 2",1967,1973,target,lost,351
+8,war,"Vietnam War, Phase 2",1965,1972,target,lost,494
+79,war,Second Kashmir,1965,1965,target,lost,3261
+134,war,Second Kashmir,1965,1965,initiator,won,3800
+84,war,Six Day War,1967,1967,initiator,won,1000
+53,war,Six Day War,1967,1967,target,lost,10000
+88,war,Six Day War,1967,1967,target,lost,6100
+173,war,Six Day War,1967,1967,target,lost,2500
+190,war,"Second Laotian, Phase 2",1968,1973,target,lost,375
+177,war,"Second Laotian, Phase 2",1970,1973,target,lost,-9
+95,war,"Second Laotian, Phase 2",1968,1973,target,lost,11250
+195,war,"Second Laotian, Phase 2",1968,1973,initiator,won,2250
+53,war,War of Attrition,1969,1970,initiator,stalemate,5000
+84,war,War of Attrition,1969,1970,target,stalemate,368
+75,war,Football War,1969,1969,target,lost,1200
+54,war,Football War,1969,1969,initiator,won,700
+195,war,Communist Coalition,1970,1971,initiator,the war was transformed into another type of war,400
+190,war,Communist Coalition,1970,1971,target,the war was transformed into another type of war,125
+28,war,Communist Coalition,1970,1971,target,the war was transformed into another type of war,5000
+203,war,Communist Coalition,1970,1971,target,the war was transformed into another type of war,1000
+79,war,Bangladesh,1971,1971,target,won,3241
+134,war,Bangladesh,1971,1971,initiator,lost,7982
+53,war,Yom Kippur War,1973,1973,initiator,lost,7700
+154,war,Yom Kippur War,1973,1973,target,lost,100
+84,war,Yom Kippur War,1973,1973,target,won,2838
+88,war,Yom Kippur War,1973,1973,target,lost,23
+173,war,Yom Kippur War,1973,1973,initiator,lost,3500
+82,war,Yom Kippur War,1973,1973,target,lost,278
+183,war,Turco-Cypriot,1974,1974,initiator,won,1000
+45,war,Turco-Cypriot,1974,1974,target,lost,500
+44,war,War over Angola,1975,1976,target,the war was transformed into another type of war,1500
+164,war,War over Angola,1975,1976,initiator,the war was transformed into another type of war,100
+39,war,War over Angola,1975,1976,target,the war was transformed into another type of war,100
+4,war,War over Angola,1975,1976,target,the war was transformed into another type of war,1000
+58,war,"Second Ogaden War, Phase 2",1977,1978,target,the war was transformed into another type of war,1800
+44,war,"Second Ogaden War, Phase 2",1977,1978,target,the war was transformed into another type of war,700
+163,war,"Second Ogaden War, Phase 2",1977,1978,initiator,the war was transformed into another type of war,8000
+195,war,Vietnamese-Cambodian,1977,1979,target,the war was transformed into another type of war,3000
+28,war,Vietnamese-Cambodian,1977,1979,initiator,the war was transformed into another type of war,5000
+186,war,Ugandian-Tanzanian,1978,1979,initiator,lost,1500
+176,war,Ugandian-Tanzanian,1978,1979,target,won,1000
+100,war,Ugandian-Tanzanian,1979,1979,target,lost,500
+35,war,Sino-Vietnamese Punitive,1979,1979,initiator,won,13000
+195,war,Sino-Vietnamese Punitive,1979,1979,target,lost,8000
+82,war,Iran-Iraq,1980,1988,initiator,stalemate,500000
+81,war,Iran-Iraq,1980,1988,target,stalemate,750000
+189,war,Falkland Islands,1982,1982,target,won,255
+6,war,Falkland Islands,1982,1982,initiator,lost,746
+84,war,War over Lebanon,1982,1982,initiator,stalemate,455
+173,war,War over Lebanon,1982,1982,target,stalemate,1200
+33,war,War over the Aouzou Strip,1986,1987,initiator,won,1000
+100,war,War over the Aouzou Strip,1986,1987,target,lost,7000
+195,war,Sino-Vietnamese Border War,1987,1987,target,stalemate,2200
+35,war,Sino-Vietnamese Border War,1987,1987,initiator,stalemate,1800
+93,war,Gulf War,1990,1991,target,won,1000
+190,war,Gulf War,1991,1991,target,won,376
+30,war,Gulf War,1991,1991,target,won,0
+189,war,Gulf War,1991,1991,target,won,24
+85,war,Gulf War,1991,1991,target,won,0
+120,war,Gulf War,1991,1991,target,won,0
+82,war,Gulf War,1990,1991,initiator,lost,40000
+53,war,Gulf War,1991,1991,target,won,14
+133,war,Gulf War,1991,1991,target,won,0
+61,war,Gulf War,1991,1991,target,won,2
+188,war,Gulf War,1991,1991,target,won,6
+144,war,Gulf War,1991,1991,target,won,0
+154,war,Gulf War,1991,1991,target,won,44
+173,war,Gulf War,1991,1991,target,won,0
+43,war,Bosnian Independence,1992,1992,target,the war was transformed into another type of war,500
+21,war,Bosnian Independence,1992,1992,target,the war was transformed into another type of war,2850
+206,war,Bosnian Independence,1992,1992,initiator,the war was transformed into another type of war,1890
+10,war,Azeri-Armenian,1993,1994,target,lost,8500
+7,war,Azeri-Armenian,1993,1994,initiator,won,5500
+52,war,Cenepa Valley,1995,1995,initiator,tied,550
+140,war,Cenepa Valley,1995,1995,target,tied,950
+56,war,Badme Border,1998,2000,initiator,stalemate,50000
+58,war,Badme Border,1998,2000,target,stalemate,70000
+183,war,War for Kosovo,1999,1999,initiator,won,0
+85,war,War for Kosovo,1999,1999,initiator,won,0
+189,war,War for Kosovo,1999,1999,initiator,won,0
+190,war,War for Kosovo,1999,1999,initiator,won,2
+126,war,War for Kosovo,1999,1999,initiator,won,0
+61,war,War for Kosovo,1999,1999,initiator,won,0
+206,war,War for Kosovo,1999,1999,target,lost,5000
+65,war,War for Kosovo,1999,1999,initiator,won,0
+79,war,Kargil War,1999,1999,target,won,474
+134,war,Kargil War,1999,1999,initiator,lost,698
+30,war,Invasion of Afghanistan,2001,2001,target,the war was transformed into another type of war,0
+61,war,Invasion of Afghanistan,2001,2001,target,the war was transformed into another type of war,0
+189,war,Invasion of Afghanistan,2001,2001,initiator,the war was transformed into another type of war,0
+190,war,Invasion of Afghanistan,2001,2001,initiator,the war was transformed into another type of war,2
+8,war,Invasion of Afghanistan,2001,2001,target,the war was transformed into another type of war,0
+0,war,Invasion of Afghanistan,2001,2001,target,the war was transformed into another type of war,4000
+8,war,Invasion of Iraq,2003,2003,initiator,the war was transformed into another type of war,0
+189,war,Invasion of Iraq,2003,2003,initiator,the war was transformed into another type of war,33
+190,war,Invasion of Iraq,2003,2003,initiator,the war was transformed into another type of war,140
+82,war,Invasion of Iraq,2003,2003,target,the war was transformed into another type of war,7000
