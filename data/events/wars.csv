@@ -248,7 +248,7 @@ ID,eventName,warName,startYear,endYear,initiatorOrTarget,outcome,deaths
 88,war,Six Day War,1967,1967,target,lost,6100
 173,war,Six Day War,1967,1967,target,lost,2500
 190,war,"Second Laotian, Phase 2",1968,1973,target,lost,375
-177,war,"Second Laotian, Phase 2",1970,1973,target,lost,-9
+177,war,"Second Laotian, Phase 2",1970,1973,target,lost,
 95,war,"Second Laotian, Phase 2",1968,1973,target,lost,11250
 195,war,"Second Laotian, Phase 2",1968,1973,initiator,won,2250
 53,war,War of Attrition,1969,1970,initiator,stalemate,5000
