@@ -7,7 +7,6 @@ const State = {
 	
 	// other settings
 	removeTimelineWithNoData: true,
-	splitTimelineBy: 'no splitting',
 	normalizeTimeSeries: false,
 
 	// count event pane
@@ -24,7 +23,6 @@ const State = {
 		self.highlight = [];
 
 		self.removeTimelineWithNoData = true;
-		self.splitTimelineBy = 'no splitting';
 		self.normalizeTimeSeries = false;
 
 		self.selectedNewEventAttr = false;

@@ -10,7 +10,6 @@ const SettingOtherPane = {
 		$('#setting-pane > .settings').addClass('other');
 		self.hideSearchBox();
 		self.drawRemoveTimelineWithNoDataDropdown();
-		self.drawSplitTimelineByDropdown();
 		self.drawNormalizeTimeSeriesDropdown();
 		$('#setting-pane > .settings').scrollTop(0);
 	},
@@ -42,33 +41,6 @@ const SettingOtherPane = {
 
 			if (oldValue == newValue) return;
 			State.removeTimelineWithNoData = newValue;
-			RightColumn.update();
-		}
-	},
-	drawSplitTimelineByDropdown: function() {
-		const self = this;
-		var splitTimelineBy = State.splitTimelineBy;
-		var dropdownHTML = self.generateDropdownHTML('split-timeline');
-		var dropdownEl = null;
-
-		$('#setting-pane > .settings.other').append(dropdownHTML);
-		dropdownEl = $('#setting-pane > .settings.other > .dropdown').last()[0];
-
-		var dropdown = new DropdownMenu(
-			dropdownEl = dropdownEl,
-			dropdownName = 'Split timeline by',
-			dropdownList = [ 'no splitting', 'supplier country', 'client country' ],
-			onClickListItem = onClickListItem,
-			isDisabled = false,
-			defaultSelection = splitTimelineBy
-		);
-
-		function onClickListItem(data) {
-			var oldValue = State.splitTimelineBy;
-			var newValue = data;
-
-			if (oldValue == newValue) return;
-			State.splitTimelineBy = newValue;
 			RightColumn.update();
 		}
 	},
