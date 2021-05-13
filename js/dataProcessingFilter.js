@@ -1,0 +1,5 @@
+const DataProcessingFilter = {
+	generate: function() {
+		
+	}
+}

@@ -1,0 +1,5 @@
+const DataProcessingPlotter = {
+	generate: function() {
+		
+	}
+}

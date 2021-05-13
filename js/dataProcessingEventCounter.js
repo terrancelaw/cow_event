@@ -1,0 +1,5 @@
+const DataProcessingEventCounter = {
+	generate: function() {
+		
+	}
+}
