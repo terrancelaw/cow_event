@@ -32,7 +32,6 @@ const CountEventPaneHeader = {
 			return 'COUNTING ' + eventAttrAttrHTML + ' OF ' + eventAttributeHTML + ' IN THE EVENT ' + eventHTML;
 	},
 	generateHeaderEventHTML: function(eventName) {
-		var dataSource = Database.dataSource;
 		var stageDataList = Database.eventNameToStageAttrData[eventName];
 		var eventNameHTML = '';
 
@@ -49,7 +48,7 @@ const CountEventPaneHeader = {
 
 			for (var i = 0; i < stageDataList.length; i++) {
 				var stageData = stageDataList[i];
-				var stageName = stageData[dataSource + 'EventName'];
+				var stageName = stageData.eventName;
 				var stageColor = VisualizationPane.getColor(stageName);
 				var brokenEventName = brokenEventNameList[i];
 				eventNameHTML += '<span style="color:' + stageColor + '">' + brokenEventName + '</span>';
