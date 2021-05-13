@@ -13,9 +13,9 @@ const SettingVisualizePane = {
 		$('#setting-pane > .settings').addClass('visualize');
 		self.showSearchBox();
 		self.initSearchBoxBehaviour();
-		self.drawTimeSeries(timeSeriesList);
 		self.drawPointEvents(pointEventList);
 		self.drawIntervalEvents(intervalEventList);
+		self.drawTimeSeries(timeSeriesList);
 		self.drawEventAttributes();
 		self.drawEventAttributeAttributes();
 		self.initClickTimeSeriesBehaviour();

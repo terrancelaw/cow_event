@@ -11,7 +11,8 @@ const Configuration = {
 		'military_personnel.csv'
 	],
 	eventFileList: [
-		'wars.csv',
+		'wars_interval_events.csv',
+		'wars_point_events.csv',
 		'defense_agreements_interval_events.csv',
 		'defense_agreements_point_events.csv'
 	],
@@ -19,7 +20,7 @@ const Configuration = {
 	// event file data
 
 	eventFileData: {
-		'wars.csv': {
+		'wars_interval_events.csv': {
 			stageDataList: [{ 
 				startYear: 'startYear', 
 				endYear: 'endYear', 
@@ -29,13 +30,12 @@ const Configuration = {
 		'defense_agreements_interval_events.csv': {
 			stageDataList: [{ 
 				startYear: 'signYear', 
-				endYear: 'EIFYear', 
-				eventName: 'agreement between signing and in force'
-			}, { 
-				startYear: 'EIFYear', 
 				endYear: 'endYearEstimated', 
-				eventName: 'agreement in force'
+				eventName: 'agreement between signing and in force'
 			}]
+		},
+		'wars_point_events.csv': {
+			stageDataList: []
 		},
 		'defense_agreements_point_events.csv': {
 			stageDataList: []
