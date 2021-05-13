@@ -249,6 +249,8 @@ const CountEventPane = {
 
 			function onMouseenterButton() {
 				var offset = $(this).offset();
+				var height = $(this).height();
+				var width = $(this).width();
 				var tooltipText = $(this).attr('tooltip');
 				
 				$('#tooltip')
@@ -256,8 +258,9 @@ const CountEventPane = {
 					.removeAttr('style')
 					.empty()
 					.addClass('event-count-button')
-					.css('left', offset.left - 8)
-					.css('top', offset.top - 8)
+					.css('left', offset.left - 8 + width - 8)
+					.css('top', offset.top + height)
+					.css('transform', 'translateX(-100%)')
 					.html(tooltipText);
 			}
 
