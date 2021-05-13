@@ -1,0 +1,5 @@
+const RightColumn = {
+	update: function() {
+
+	}
+}
