@@ -1,6 +1,7 @@
 $(function() {
 	Body.init();
 	SettingPane.init();
+	ReferencePane.init();
 	CountEventPane.init();
 	VisualizationPane.init();
 	VisualizationPaneControls.init();
