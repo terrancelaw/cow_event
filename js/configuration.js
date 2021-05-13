@@ -31,7 +31,7 @@ const Configuration = {
 			stageDataList: [{ 
 				startYear: 'signYear', 
 				endYear: 'endYearEstimated', 
-				eventName: 'agreement between signing and in force'
+				eventName: 'defense cooperation agreement'
 			}]
 		},
 		'wars_point_events.csv': {
