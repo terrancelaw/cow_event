@@ -1,0 +1,5 @@
+const VisualizationPaneScrollbar = {
+	init: function() {
+		
+	}
+}

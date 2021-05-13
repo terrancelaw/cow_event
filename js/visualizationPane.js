@@ -23,5 +23,7 @@ const VisualizationPane = {
 	eventRadius: 1.5,
 	pointIntervalGap: 15,
 
-	
+	init: function() {
+		
+	}
 }

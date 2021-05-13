@@ -1,0 +1,5 @@
+const VisualizationPaneControls = {
+	init: function() {
+		
+	}
+}
