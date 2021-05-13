@@ -216,7 +216,6 @@ const VisualizationPane = {
 	},
 	getSelectedNameList: function() {
 		const self = this;
-		var dataSource = Database.dataSource;
 		var eventNameToStageAttrData = Database.eventNameToStageAttrData;
 		var selectedNameList = [];
 		var selectedEventNameList = State.visualize
@@ -235,7 +234,7 @@ const VisualizationPane = {
 			else if (stageDataList.length > 0)
 				for (var j = 0; j < stageDataList.length; j++) {
 					var stageData = stageDataList[j];
-					var stageName = stageData[dataSource + 'EventName'];
+					var stageName = stageData.eventName;
 					selectedNameList.push(stageName);
 				}
 		}
