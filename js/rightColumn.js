@@ -6,21 +6,21 @@ const RightColumn = {
 
 		if (needToForceOpenContentEventPane) {
 			State.selectedNewEventAttr = false;
-
+			VisualizationPane.initColorScale();
 			setTimeout(function() {
 				DataProcessor.update();
 			}, 0);
 		}
 		else if (isCountEventPaneExpanded) {
 			State.selectedNewEventAttr = false;
-
+			VisualizationPane.initColorScale();
 			setTimeout(function() {
 				DataProcessor.update();
 			}, 0);
 		}
 		else if (!isCountEventPaneExpanded) {
 			State.selectedNewEventAttr = false;
-
+			VisualizationPane.initColorScale();
 			setTimeout(function() {
 				DataProcessor.update();
 			}, 0);
