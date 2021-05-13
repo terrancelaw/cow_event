@@ -7,7 +7,7 @@ const State = {
 	
 	// other settings
 	removeTimelineWithNoData: true,
-	normalizeTimeSeries: false,
+	normalizeTimeSeries: true,
 
 	// count event pane
 	selectedNewEventAttr: false, // check if need to force open count event pane
